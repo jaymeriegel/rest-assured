@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="qaops.atomation.api.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-28T01:49:51" hostname="DESKTOP-LIJEDM9" time="0.053">
+  <properties/>
+  <testcase name="testNormal()" classname="qaops.atomation.api.AppTest" time="0.053"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
