@@ -1,2 +1,2 @@
-qaops/atomation/api/AppTest.java
- qaops.atomation.api.AppTest
+qaops/atomation/api/AppTest1Basic.java
+ qaops.atomation.api.AppTest1Basic

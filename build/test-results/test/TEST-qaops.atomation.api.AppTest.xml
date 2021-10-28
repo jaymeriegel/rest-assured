@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="qaops.atomation.api.AppTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-28T12:35:14" hostname="DESKTOP-LIJEDM9" time="3.865">
-  <properties/>
-  <testcase name="testGetUsersCorrect()" classname="qaops.atomation.api.AppTest" time="3.27"/>
-  <testcase name="testGetUsersStatic()" classname="qaops.atomation.api.AppTest" time="0.594"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
