@@ -2,8 +2,6 @@ plugins {
     id 'java'
 }
 
-apply plugin: 'java'
-
 group 'org.example'
 version '1.0-SNAPSHOT'
 
@@ -12,11 +10,16 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.10.3'
+    testImplementation("org.junit.jupiter:junit-jupiter:5.8.1")
+    testImplementation 'io.rest-assured:rest-assured:4.+'
     testImplementation 'org.hamcrest:hamcrest:2.2'
+    // JAX-B dependencies for JDK 9+
+    implementation "jakarta.xml.bind:jakarta.xml.bind-api:2.3.2"
+    implementation "org.glassfish.jaxb:jaxb-runtime:2.3.2"
 }
 
 test {
     useJUnitPlatform()
 }
+
