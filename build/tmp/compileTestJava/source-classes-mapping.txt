@@ -2,3 +2,5 @@ qaops/atomation/api/domain/User.java
  qaops.atomation.api.domain.User
 qaops/atomation/api/ReqresTestGetV1.java
  qaops.atomation.api.ReqresTestGetV1
+qaops/atomation/api/ReqresTestPostV1.java
+ qaops.atomation.api.ReqresTestPostV1
