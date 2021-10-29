@@ -1,6 +1,8 @@
 qaops/atomation/api/domain/User.java
  qaops.atomation.api.domain.User
-qaops/atomation/api/ReqresTestGetV1.java
- qaops.atomation.api.ReqresTestGetV1
-qaops/atomation/api/ReqresTestPostV1.java
- qaops.atomation.api.ReqresTestPostV1
+qaops/atomation/api/userTest/ReqresTestGetV1.java
+ qaops.atomation.api.userTest.ReqresTestGetV1
+qaops/atomation/api/BaseTest.java
+ qaops.atomation.api.BaseTest
+qaops/atomation/api/userTest/ReqresTestPostV1.java
+ qaops.atomation.api.userTest.ReqresTestPostV1
