@@ -1,2 +1,4 @@
-qaops/atomation/api/AppTest1Basic.java
- qaops.atomation.api.AppTest1Basic
+qaops/atomation/api/domain/User.java
+ qaops.atomation.api.domain.User
+qaops/atomation/api/ReqresTestGetV1.java
+ qaops.atomation.api.ReqresTestGetV1
